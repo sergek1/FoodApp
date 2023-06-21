@@ -1,6 +1,5 @@
 # FoodApp
 
+Ссылка на видео работающего приложения:
 
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
+ https://disk.yandex.ru/i/R6FB-M0-62c37w
